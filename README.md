@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <h1>Interpretador Simples de Expressões Matemáticas</h1>
+    <h1>Interpretador Simples</h1>
     <p>Este projeto implementa um interpretador simples de expressões matemáticas em C. O interpretador é capaz de analisar e avaliar expressões matemáticas básicas, como adição, subtração, multiplicação e divisão.</p>
 
   <h2>Estrutura do Projeto</h2>
