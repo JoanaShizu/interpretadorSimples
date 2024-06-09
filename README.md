@@ -80,8 +80,7 @@ int main() {
 
   int result = interpret(interpreter);
   printf("Resultado: %d\n", result);
-
-    // Limpeza de memória
+  
   free(lexer);
   free(parser);
   free(interpreter);
@@ -89,9 +88,6 @@ int main() {
   return 0;
 }
     </code></pre>
-
-  <h2>Contribuindo</h2>
-  <p>Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.</p>
 
 </body>
 </html>
